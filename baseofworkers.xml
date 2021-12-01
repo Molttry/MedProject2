@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfNurse_Admin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nurse_Admin>
+    <firstName>Anton</firstName>
+    <lastName>Berdiuhin</lastName>
+    <type>admin</type>
+    <pesel>1234565</pesel>
+    <username>molttry</username>
+    <password>molttry1</password>
+    <duty />
+  </Nurse_Admin>
+  <Nurse_Admin>
+    <firstName>Rubanova</firstName>
+    <lastName>Maria</lastName>
+    <type>nurse</type>
+    <pesel>12345767</pesel>
+    <username>ruuba</username>
+    <password>qwerty</password>
+    <duty />
+  </Nurse_Admin>
+  <Nurse_Admin>
+    <firstName>Lisa</firstName>
+    <lastName>Matis</lastName>
+    <type>nurse</type>
+    <pesel>12345664</pesel>
+    <username>photo</username>
+    <password>123451</password>
+  </Nurse_Admin>
+</ArrayOfNurse_Admin>
